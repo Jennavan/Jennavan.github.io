@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Playfair+Display');
+body {
+  background-color: white;
+  color: teal;
+  font-style: bold;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+h1 {
+  color: nude;
+}
